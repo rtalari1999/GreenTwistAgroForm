@@ -1,1 +1,54 @@
 /* You can add global styles to this file, and also import other style files */
+$primary-color: #FFFF;
+
+.p-10 {
+    padding: 10px;
+}
+.p-20 {
+    padding: 20px;
+}
+.pr-3 {
+    padding-right: 3px;
+}
+.pr-4 {
+    padding-right: 4px;
+}
+.pr-5 {
+    padding-right: 5px;
+}
+.pr-15 {
+    padding-right: 15px;
+}
+.pr-20 {
+    padding-right: 20px;
+}
+
+.white{
+    color: $primary-color;
+}
+.bg-green{
+    background-color: rgb(65 126 56);
+}
+.bg-white{
+    background-color: $primary-color;
+}
+.w-194{
+    width: 194px;
+}
+.ml-20{
+    margin-left: 20px;
+}
+
+.bg-cards{
+    background-color: yellowgreen;
+    color: #ffff;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.mr-20{
+    margin-right: 20px;
+}
+.mr-50{
+    margin-right: 50px;
+}

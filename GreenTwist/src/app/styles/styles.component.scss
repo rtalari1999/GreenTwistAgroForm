@@ -1,0 +1,37 @@
+.dropdwn{
+    padding: 6px;
+    border: solid lightgray;
+    color: black;
+    font-size: 28px;
+}
+
+.label {
+    font-size: 28px;
+}
+.input {
+    padding: 4px;
+    border: solid lightgray;
+    color: black;
+    font-size: 28px;
+}
+.input:focus, .input:active {
+    padding: 4px;
+    border: solid lightskyblue;
+    color: black;
+    font-size: 28px;
+}
+.checkbox {
+    margin-left: 20px;
+    width: 30px;
+    height: 22px;
+}
+
+.tableExample > thead >tr >th , .tableExample > tbody >tr >td{
+    border: solid lightgray;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.anchorTag {
+    font-size: 25px;
+}
